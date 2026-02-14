@@ -11,7 +11,7 @@ I am a second-year student passionate about building efficient software and expl
 ### 📊 GitHub Stats
 A quick look at my coding activity and most-used languages:
 
-![Estadísticas de Andrés](https://github-readme-stats.vercel.app/api?username=Bini960&show_icons=true&theme=tokyonight)
+![Estadísticas de Andrés](https://metrics.lecoq.io/Bini960?base=header,repositories,community&base.indention=2)
 
 ![Lenguajes de Andrés](https://github-readme-stats.vercel.app/api/top-langs/?username=Bini960&layout=compact&theme=tokyonight)
 
