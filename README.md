@@ -11,9 +11,9 @@ I am a second-year student passionate about building efficient software and expl
 ### 📊 GitHub Stats
 A quick look at my coding activity and most-used languages:
 
-![Andrés' Stats](https://github-readme-stats.vercel.app/api?username=Bini960&show_icons=true&theme=dark)
+![Estadísticas de Andrés](https://github-readme-stats.vercel.app/api?username=Bini960&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bini960&layout=compact&theme=dark)
+![Lenguajes de Andrés](https://github-readme-stats.vercel.app/api/top-langs/?username=Bini960&layout=compact&theme=tokyonight)
 
 ---
 📫 **Let's Connect:** Explore my repositories to see what I'm working on!
