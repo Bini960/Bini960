@@ -43,3 +43,4 @@ A quick look at my coding activity and most-used languages:
 
 ---
 📫 **Let's Connect:** Explore my repositories to see what I'm working on!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andr%C3%A9s%20Castro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-castro-morales-8aa755394)
